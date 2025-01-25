@@ -1,5 +1,4 @@
 # phone-usage-analysis
-# Phone Usage in India Analysis and Usage Detection
 
 ## Overview
 This project analyzes phone usage patterns in India and predicts the primary use of mobile devices based on various features. The notebook covers data preprocessing, exploratory data analysis (EDA), and model training using multiple classification algorithms.
