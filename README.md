@@ -73,7 +73,7 @@ Implemented and evaluated the following classifiers:
 1. Ensure the dataset (`phone_usage_india.csv`) is in the project directory.
 2. Open and run the Jupyter Notebook using:
    ```bash
-   jupyter notebook "Phone Usage in India Analysis and Usage Detection.ipynb"
+   jupyter notebook "Phone Usage in India .ipynb"
    ```
 
 ## Results
