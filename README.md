@@ -1,6 +1,5 @@
 # phone-usage-analysis
 
-## Overview
 This project analyzes phone usage patterns in India and predicts the primary use of mobile devices based on various features. The notebook covers data preprocessing, exploratory data analysis (EDA), and model training using multiple classification algorithms.
 
 ## Features
@@ -72,7 +71,7 @@ Implemented and evaluated the following classifiers:
 1. Ensure the dataset (`phone_usage_india.csv`) is in the project directory.
 2. Open and run the Jupyter Notebook using:
    ```bash
-   jupyter notebook "Phone Usage in India .ipynb"
+   Jupiter notebook "Phone Usage in India .ipynb"
    ```
 
 ## Results
