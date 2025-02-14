@@ -81,7 +81,7 @@ The notebook provides:
 - Visualizations for better interpretability of results.
 
 ## Acknowledgments
-- Dataset: The data was sourced as part of a study on phone usage patterns.
+- Dataset: The data was sourced from a study on phone usage patterns.
 - Libraries: Special thanks to contributors of Python libraries used in this project.
 
 ## License
